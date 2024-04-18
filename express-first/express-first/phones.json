@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "name": "iPhone 13",
+      "model": "13",
+      "price": 999,
+      "details": "6.1-inch Super Retina XDR display, A15 Bionic chip, Dual 12MP camera system, Ceramic Shield front cover",
+      "color": "Midnight"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S21 Ultra",
+      "model": "S21 Ultra",
+      "price": 1199,
+      "details": "6.8-inch Dynamic AMOLED 2X display, Exynos 2100 (Global)/Snapdragon 888 (USA/China) chip, Quad 108MP camera system, 5000mAh battery",
+      "color": "Phantom Black"
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel 6 Pro",
+      "model": "6 Pro",
+      "price": 899,
+      "details": "6.71-inch Fluid AMOLED display, Google Tensor chip, Triple 50MP camera system, 5003mAh battery",
+      "color": "Stormy Black"
+    },
+    {
+      "id": 4,
+      "name": "OnePlus 10 Pro",
+      "model": "10 Pro",
+      "price": 899,
+      "details": "6.7-inch Fluid AMOLED display, Snapdragon 8 Gen 2 chip, Quad 108MP camera system, 5000mAh battery",
+      "color": "Morning Mist"
+    },
+    {
+      "id": 5,
+      "name": "Xiaomi Mi 12",
+      "model": "Mi 12",
+      "price": 799,
+      "details": "6.8-inch AMOLED display, Snapdragon 8 Gen 1 chip, Triple 50MP camera system, 4800mAh battery",
+      "color": "Celestial Blue"
+    },
+    {
+      "id": 6,
+      "name": "Apple iPhone SE (2022)",
+      "model": "SE (2022)",
+      "price": 429,
+      "details": "4.7-inch Retina HD display, A15 Bionic chip, Single 12MP camera system, Touch ID",
+      "color": "Product Red"
+    },
+    {
+      "id": 7,
+      "name": "Samsung Galaxy A52s 5G",
+      "model": "A52s 5G",
+      "price": 499,
+      "details": "6.5-inch Super AMOLED display, Snapdragon 778G chip, Quad 64MP camera system, 4500mAh battery",
+      "color": "Awesome Black"
+    },
+    {
+      "id": 8,
+      "name": "Google Pixel 5a",
+      "model": "5a",
+      "price": 449,
+      "details": "6.34-inch OLED display, Snapdragon 765G chip, Dual 12.2MP + 16MP camera system, 4680mAh battery",
+      "color": "Mostly Black"
+    },
+    {
+      "id": 9,
+      "name": "OnePlus Nord 2",
+      "model": "Nord 2",
+      "price": 399,
+      "details": "6.43-inch Fluid AMOLED display, MediaTek Dimensity 1200-AI chip, Triple 50MP camera system, 4500mAh battery",
+      "color": "Gray Sierra"
+    },
+    {
+      "id": 10,
+      "name": "Xiaomi Redmi Note 11 Pro",
+      "model": "Redmi Note 11 Pro",
+      "price": 349,
+      "details": "6.67-inch AMOLED display, Snapdragon 695 chip, Quad 108MP camera system, 5000mAh battery",
+      "color": "Horizon Blue"
+    },
+    {
+      "id": 11,
+      "name": "Apple iPhone 12 Mini",
+      "model": "12 Mini",
+      "price": 699,
+      "details": "5.4-inch Super Retina XDR display, A14 Bionic chip, Dual 12MP camera system, Ceramic Shield front cover",
+      "color": "White"
+    },
+    {
+      "id": 12,
+      "name": "Samsung Galaxy Z Fold 3",
+      "model": "Z Fold 3",
+      "price": 1799,
+      "details": "7.6-inch Dynamic AMOLED 2X display (Main), 6.2-inch Dynamic AMOLED 2X display (Cover), Snapdragon 888 chip, Triple 12MP camera system, 4400mAh battery",
+      "color": "Phantom Silver"
+    },
+    {
+      "id": 13,
+      "name": "Google Pixel 5",
+      "model": "5",
+      "price": 699,
+      "details": "6.0-inch OLED display, Snapdragon 765G chip, Dual 12.2MP + 16MP camera system, 4080mAh battery",
+      "color": "Just Black"
+    },
+    {
+      "id": 14,
+      "name": "OnePlus 9",
+      "model": "9",
+      "price": 729,
+      "details": "6.55-inch Fluid AMOLED display, Snapdragon 888 chip, Triple 48MP camera system, 4500mAh battery",
+      "color": "Arctic Sky"
+    },
+    {
+      "id": 15,
+      "name": "Xiaomi Poco X3 Pro",
+      "model": "Poco X3 Pro",
+      "price": 249,
+      "details": "6.67-inch IPS LCD display, Snapdragon 860 chip, Quad 48MP camera system, 5160mAh battery",
+      "color": "Graphite Black"
+    }
+  ]
+  
